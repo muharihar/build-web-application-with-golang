@@ -39,4 +39,4 @@ sedangkan source code berlisensi di bawah [BSD 3-Clause License](<https://github
 
 ### Mari Memulai
 
-[Index](./preface.md)
+[Daftar Isi](./preface.md)
