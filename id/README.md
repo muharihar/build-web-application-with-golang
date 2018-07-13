@@ -1,33 +1,30 @@
-***Membangun Aplikasi Web dengan GO***
+***Membangun Aplikasi Web dengan Go***
 ======================================
 
-### Purpose
+### Latar Belakang (Tujuan)
 
 Kecintaan Saya dengan dunia pengembangan aplikasi web membuat Saya mencoba meluangkan waktu untuk menulis buku ini ke dalam versi open source. Ini tidak berarti bahwa Saya adalah pribadi yang jago dalam pengembangan web; Saya hanya ingin berbagi tentang pengalaman Saya dalam membangun aplikasi web dengan Go.
 
-||| 
+- Bagi Anda yang telah terbiasa dengan PHP/Phyton/Ruby, Anda akan belajar bagaimana mengembangkan aplikasi web menggunakan Go. 
+- Bagi Anda yang telah terbiasa dengan C/C++, Anda akan mengetahui bagaimana web bekerja dengan Go.
 
-Because I'm interested in web application development, I used my free time to write this book as an open source version. It doesn't mean that I have a very good ability to build web applications; I would like to share what I've done with Go in building web applications.
+Saya menyakini bahwa tujuan dari pembelajaran adalah berbagi dengan yang lain. Merupakan kebahagiaan bagi Saya jika Saya dapat berbagi (lebih banyak lagi) mengenai pengalaman Saya ke siapa saja.
 
-- For those of you who are working with PHP/Python/Ruby, you will learn how to build a web application with Go.
-- For those of you who are working with C/C++, you will know how the web works.
-
-I believe the purpose of studying is sharing with others. The happiest thing in my life is sharing everything I've known with more people.
-
-# Donate
+# Donasi
 
 AliPay: <img src="../zh/images/alipay.png" alt="alipay" width="100" height="100">
 
-English Donate:[donate](http://beego.me/donate)
+Donasi Bahasa (Indonesia): [donate](http://paypal.com/...)
 
-## Community
-QQ群：386056972
+## Komunitas
 
-BBS：[http://gocn.io/](http://gocn.io/)
+FB: ...
 
-### Acknowledgments
+BBS: [http://cloudmaniac.id] (http://cloudmaniac.id)
 
- - [四月份平民 April Citizen](https://plus.google.com/110445767383269817959) (review code)
+### Ucapan Terima Kasih
+
+- [四月份平民 April Citizen](https://plus.google.com/110445767383269817959) (review code)
  - [洪瑞琦 Hong Ruiqi](https://github.com/hongruiqi) (review code)
  - [边  疆 BianJiang](https://github.com/border) (write the configurations about Vim and Emacs for Go development)
  - [欧林猫 Oling Cat](https://github.com/OlingCat)(review code)
@@ -35,11 +32,11 @@ BBS：[http://gocn.io/](http://gocn.io/)
  - [北极星 Polaris](https://github.com/polaris1119)(review whole book)
  - [雨  痕 Rain Trail](https://github.com/qyuhen)(review chapter 2 and 3)
 
-### License
+### Lisensi
 
-This book is licensed under the [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/),
-the code is licensed under a [BSD 3-Clause License](<https://github.com/astaxie/build-web-application-with-golang/blob/master/LICENSE.md>), unless otherwise specified.
+Buku ini berlisensi di bawah [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/),
+sedangkan source code berlisensi di bawah [BSD 3-Clause License](<https://github.com/astaxie/build-web-application-with-golang/blob/master/LICENSE.md>), kecuali yang pada bagian tertentu.
 
-### Get Started
+### Mari Memulai
 
 [Index](./preface.md)
