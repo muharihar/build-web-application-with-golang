@@ -4,6 +4,7 @@
 * [English](en/preface.md)
 * [Español](es/preface.md)
 * [Français](fr/preface.md)
+* [Bahasa Indonesia] (id/preface.md)
 * [Português - Brasil](pt-br/preface.md)
 * [Русский](ru/preface.md)
 * [Türkçe](tr/preface.md)
