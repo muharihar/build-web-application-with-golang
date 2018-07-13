@@ -18,9 +18,9 @@ Donasi Bahasa (Indonesia): [donate](http://paypal.com/...)
 
 ## Komunitas
 
-FB: [https://www.facebook.com/GoLangBookID/] (EBook Golang Indonesia)
+FB: [EBook Golang Indonesia](https://www.facebook.com/GoLangBookID)
 
-BBS: [http://cloudmaniac.id] (http://cloudmaniac.id)
+BBS: [http://cloudmaniac.id](http://cloudmaniac.id)
 
 ### Ucapan Terima Kasih
 
